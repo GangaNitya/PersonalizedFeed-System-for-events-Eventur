@@ -1,0 +1,20 @@
+.doc{
+width: 100%;
+
+	background-color: #8CD7D8;
+
+}
+
+.urlbox{
+	margin-left:auto; 
+    margin-right:auto;
+    background-color: #FFFF99;
+    text-align: center;
+    font-family: Georgia;
+font-size: 1.5em;
+color:#006699;
+border: 1px solid black;
+top:20px;
+
+
+}
